@@ -1,0 +1,120 @@
+body {
+  font-family: "Bitter", serif;
+  margin: 0;
+}
+section {
+  margin-bottom: 130px;
+}
+.first-title {
+  font-family: "Otomanopee One", sans-serif;
+  font-size: 40px;
+  padding-left: 10px;
+  margin-top: 50px;
+  padding-left: 160px;
+}
+.first-subtitle {
+  font-family: "Yomogi", cursive;
+  font-size: 30px;
+  padding-left: 160px;
+  color: rgb(97, 110, 106);
+}
+.healthy-span {
+  color: rgb(247, 46, 113);
+}
+.top-bg {
+  background-image: url(images/topbg.png);
+  background-repeat: no-repeat;
+}
+.side-bg {
+  background-image: url(images/topbg2.png);
+  background-repeat: no-repeat;
+}
+.half-width {
+  width: 60%;
+}
+.first-img {
+  margin-top: 70px;
+  padding-left: 80px;
+}
+.half-width img {
+  width: 75%;
+}
+.flex-container {
+  display: flex;
+}
+.get-food-button {
+  background-image: linear-gradient(rgb(250, 147, 87), rgb(235, 76, 76));
+  text-decoration: none;
+  font-weight: 800;
+  color: rgb(75, 75, 73);
+  padding: 10px 25px;
+  font-size: 20px;
+  border-radius: 60px;
+  margin-left: 160px;
+}
+.details-button {
+  background-image: linear-gradient(rgb(219, 113, 202), rgb(104, 255, 185));
+  text-decoration: none;
+  font-weight: 800;
+  color: rgb(75, 75, 73);
+  padding: 10px 25px;
+  font-size: 20px;
+  border-radius: 60px;
+}
+.second-image {
+  margin-left: 0;
+  padding-left: 0;
+  padding-bottom: 30px;
+}
+h1 {
+  font-size: 32px;
+}
+p {
+  font-size: 18px;
+}
+.third-bg {
+  background-image: url(images/third-bg.png);
+  background-repeat: no-repeat;
+}
+.second-title {
+  color: rgb(0, 104, 202);
+}
+.recipes {
+  color: crimson;
+}
+
+.recipes-txt {
+  text-align: center;
+}
+.box {
+  margin: 3%;
+  padding: 3%;
+  box-shadow: 12px 12px 9px grey;
+  border-radius: 15px;
+  background-color: rgb(245, 244, 244);
+}
+.box img {
+  border-radius: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.topbg2 {
+  background-image: url(images/topbg2.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.footer {
+  background-color: rgb(39, 38, 38);
+}
+h4 {
+  color: rgb(44, 43, 41);
+}
+.rectengle {
+  box-shadow: 4px 4px 10px grey;
+  border-radius: 15px;
+  background-color: rgb(245, 244, 244);
+  margin: 9%;
+  padding: 3%;
+}
